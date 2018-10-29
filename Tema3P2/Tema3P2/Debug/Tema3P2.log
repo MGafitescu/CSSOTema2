@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\marian gafitescu\desktop\csso\tema3p2\tema3p2\source.cpp(128): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  Tema3P2.vcxproj -> C:\Users\Marian Gafitescu\Desktop\CSSO\Tema3P2\Debug\Tema3P2.exe
+  Tema3P2.vcxproj -> C:\Users\Marian Gafitescu\Desktop\CSSO\Tema3P2\Debug\Tema3P2.pdb (Partial PDB)

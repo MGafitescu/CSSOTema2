@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\marian gafitescu\desktop\csso\tema3p1\tema3p1\source.cpp(46): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\marian gafitescu\desktop\csso\tema3p1\tema3p1\source.cpp(29): warning C4715: 'write_memory': not all control paths return a value
+  Tema3P1.vcxproj -> C:\Users\Marian Gafitescu\Desktop\CSSO\Tema3P1\Debug\Tema3P1.exe
+  Tema3P1.vcxproj -> C:\Users\Marian Gafitescu\Desktop\CSSO\Tema3P1\Debug\Tema3P1.pdb (Partial PDB)
